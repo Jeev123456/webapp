@@ -26,7 +26,6 @@ The Web Application Helm Chart (webapp-helm) simplifies the deployment of a prod
     
 2.  **Add the S3 bucket as your Helm repository:**
     
-    bashCopy code
     
     `helm repo add webapp-repo s3://jeevana-webapp-helm/charts/` 
     
